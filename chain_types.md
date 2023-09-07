@@ -7,3 +7,4 @@
 | **Refine**       | Begins with a prompt on the primary data piece and refines output using subsequent segments.                             | - Enhances context relevance.<br> - Might preserve more details.               | - More LLM engagements.<br> - Sequential call nature.<br> - Document sequence might influence outcome.                      |
 | **Map-Rerank**   | Each data segment gets a prompt and a confidence score, which is then ranked. Summarisation implementation not present.  | - Benefits akin to MapReduce.<br> - Less calls compared to MapReduce.          | - Lacks cross-document info fusion.<br> - Optimally suited when expecting a singular clear answer from a document.         |
 
+A [link](https://weaviate.io/blog/combining-langchain-and-weaviate) containing interesting illustrations is provided here. 
