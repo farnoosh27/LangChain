@@ -1,3 +1,5 @@
+
+
 | **Chain Type**   | **Description**                                                                                                          | **Pros**                                                                       | **Cons**                                                                                                                          |
 |------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | **Stuffing**     | Incorporates all pertinent data into the model's prompt context. Enabled by LangChain's StuffDocumentsChain.             | - Single call to LLM.<br> - LLM accesses all data at once.                     | - Not viable for extensive or multiple docs due to context length limits.                                                    |
