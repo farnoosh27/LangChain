@@ -7,4 +7,5 @@ If you are thinking of implementing Llama2 family or any other potential LLM, yo
   * LLM model
   * Instruct model
 * Prompt Engineering
+  * consider best practices
   * Few-shots
