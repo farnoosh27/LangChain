@@ -8,4 +8,4 @@ If you are thinking of implementing Llama2 family or any other potential LLM, yo
   * Instruct model
 * Prompt Engineering
   * consider best practices
-  * Few-shots
+  * Zero-shot vs Few-shots
