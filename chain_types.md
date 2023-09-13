@@ -8,4 +8,4 @@
 | **Map-Rerank**   | Each data segment gets a prompt and a confidence score, which is then ranked. Summarisation implementation not present.  | - Benefits akin to MapReduce.<br> - Less calls compared to MapReduce.          | - Lacks cross-document info fusion.<br> - Optimally suited when expecting a singular clear answer from a document.         |
 
 * A [link](https://weaviate.io/blog/combining-langchain-and-weaviate) containing interesting illustrations is provided here. It's important to establish a good understanding before applying each of them.
-* There many different parameters that need to be addressed while using a LLM with the help of LangcHAIN
+* There are many different parameters that need to be addressed while using an LLM with the help of LangChain
