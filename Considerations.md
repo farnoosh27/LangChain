@@ -12,5 +12,4 @@ If you are thinking of implementing the Llama2 family or any other potential LLM
   * Zero-shot vs Few-shots
  
 There are other families of open-source models that you can use for sure.
-
 There may be some issues in the prediction like repetition, maybe you can play with repetition penalty for that.
