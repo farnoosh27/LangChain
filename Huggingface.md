@@ -1,3 +1,0 @@
-## What is HuggingFace?
-
-Hugging Face, both a company and an open-source community has a strong emphasis on Natural Language Processing (NLP) and Artificial Intelligence (AI). They have gained recognition for their significant contributions to advancing transformer-based models tailored for NLP applications. Hugging Face offers an array of tools and resources designed to simplify the utilization of cutting-edge NLP models and technologies, catering to the needs of developers, researchers, and data scientists.
